@@ -66,7 +66,7 @@ def generate_dataset(path, column_names_list):
     return list_sentence1, list_sentence2, label
 
 
-generate_dataset('/Users/chendi/dataset/QQP/train.tsv', ['question1','question2','is_duplicate'])
+#generate_dataset('/Users/chendi/dataset/QQP/train.tsv', ['question1','question2','is_duplicate'])
 
 
 
